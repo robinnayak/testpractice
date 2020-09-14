@@ -1,2 +1,2 @@
-some kind of text
+hello added some kind of text
 here is some kind of new text
